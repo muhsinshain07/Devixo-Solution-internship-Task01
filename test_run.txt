@@ -1,0 +1,128 @@
+Loaded 0 student record(s).
+
+========================================
+       STUDENT RECORD MANAGEMENT       
+========================================
+1. Add student
+2. View students
+3. Search student
+4. Update student
+5. Delete student
+6. Save records
+0. Exit
+========================================
+Choose an option: 
+--- Add Student ---
+Roll number: Name: Age: Course: Phone: Student added and records saved.
+
+========================================
+       STUDENT RECORD MANAGEMENT       
+========================================
+1. Add student
+2. View students
+3. Search student
+4. Update student
+5. Delete student
+6. Save records
+0. Exit
+========================================
+Choose an option: 
+--- Student Records ---
+Roll No.    Name                    Age     Course                Phone
+------------------------------------------------------------------------------
+101         Aisha Khan              20      Computer Science      9876543210
+
+========================================
+       STUDENT RECORD MANAGEMENT       
+========================================
+1. Add student
+2. View students
+3. Search student
+4. Update student
+5. Delete student
+6. Save records
+0. Exit
+========================================
+Choose an option: 
+--- Search Student ---
+Enter roll number: Roll number : 101
+Name        : Aisha Khan
+Age         : 20
+Course      : Computer Science
+Phone       : 9876543210
+
+========================================
+       STUDENT RECORD MANAGEMENT       
+========================================
+1. Add student
+2. View students
+3. Search student
+4. Update student
+5. Delete student
+6. Save records
+0. Exit
+========================================
+Choose an option: 
+--- Update Student ---
+Enter roll number: Enter the new details for this student.
+Name: Age: Course: Phone: Student updated and records saved.
+
+========================================
+       STUDENT RECORD MANAGEMENT       
+========================================
+1. Add student
+2. View students
+3. Search student
+4. Update student
+5. Delete student
+6. Save records
+0. Exit
+========================================
+Choose an option: 
+--- Student Records ---
+Roll No.    Name                    Age     Course                Phone
+------------------------------------------------------------------------------
+101         Aisha Khan              21      Software Engineering  9876543210
+
+========================================
+       STUDENT RECORD MANAGEMENT       
+========================================
+1. Add student
+2. View students
+3. Search student
+4. Update student
+5. Delete student
+6. Save records
+0. Exit
+========================================
+Choose an option: 
+--- Delete Student ---
+Enter roll number: Student deleted and records saved.
+
+========================================
+       STUDENT RECORD MANAGEMENT       
+========================================
+1. Add student
+2. View students
+3. Search student
+4. Update student
+5. Delete student
+6. Save records
+0. Exit
+========================================
+Choose an option: 
+--- Student Records ---
+No student records are available.
+
+========================================
+       STUDENT RECORD MANAGEMENT       
+========================================
+1. Add student
+2. View students
+3. Search student
+4. Update student
+5. Delete student
+6. Save records
+0. Exit
+========================================
+Choose an option: Thank you for using the system. Goodbye!
